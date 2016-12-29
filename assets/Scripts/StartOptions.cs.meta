@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d121b29844a66ac489d2a633fcb32db8
+timeCreated: 1457994239
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animColorFade: {instanceID: 0}
+  - animMenuAlpha: {instanceID: 0}
+  - fadeColorAnimationClip: {fileID: 7400000, guid: 8bb41374b9cee6c47a7b3a68edac288f,
+      type: 2}
+  - fadeAlphaAnimationClip: {fileID: 7400000, guid: 557187168d5fbc34a9ff1ff565715195,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9B8C23D2-37CC-6004-6C32-A3D155CA4390}") = "rebound 0.2", "Assembly-CSharp.csproj", "{80BEBB7B-63F0-EC9C-175E-78056B768E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BEBB7B-63F0-EC9C-175E-78056B768E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BEBB7B-63F0-EC9C-175E-78056B768E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BEBB7B-63F0-EC9C-175E-78056B768E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BEBB7B-63F0-EC9C-175E-78056B768E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
